@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kul-test02-meta
+spec:
+  replicas: 2
+  revisionHistoryLimit: 3
+  selector:
+    matchLabels:
+      app: kul-test02
+  template:
+    metadata:
+      labels:
+        app: kul-test02
+    spec:
+      containers:
+      - image: kubsacr.azurecr.io/kulaaas/kul-test02:16
+        name: kul-test02
+        ports:
+        - containerPort: 80
