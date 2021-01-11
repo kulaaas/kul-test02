@@ -1,0 +1,5 @@
+C:\Users\GISD\source\repos\kul-test02\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\GISD\source\repos\kul-test02\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\GISD\source\repos\kul-test02\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\GISD\source\repos\kul-test02\obj\Debug\netcoreapp2.1\kul-test02.AssemblyInfoInputs.cache
+C:\Users\GISD\source\repos\kul-test02\obj\Debug\netcoreapp2.1\kul-test02.AssemblyInfo.cs
